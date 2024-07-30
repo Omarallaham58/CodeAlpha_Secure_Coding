@@ -1,5 +1,5 @@
 <?php
-$host="YOUR_HOST_NAME";
+$host="YOUR_HOST_ADDRESS";
 $username="YOUR_DB_USERNAME";
 $password="YOUR_DB_PASSWORD";
 
